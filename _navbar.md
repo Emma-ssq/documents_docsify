@@ -11,4 +11,4 @@
   - [Mac](https://bytesfly.github.io/playground-macos/)
   - [烟花](pages/fireworks.html ':ignore')
 - [<span class="iconfont icon-csdn"></span> 博客园](https://bytesfly.cnblogs.com/)
-- [<span class="iconfont icon-github1"></span> GitHub](https://github.com/Emma-ssq/blog_docsify>)
+- [<span class="iconfont icon-github1"></span> GitHub](https://github.com/Emma-ssq/blog_docsify)
