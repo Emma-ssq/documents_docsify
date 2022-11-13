@@ -1,4 +1,4 @@
-- [webui](ssq/webui.md)
+- [webui](webui.md)
   - [安装与更新](install.md)
   - [react代码](react.md)
-- [zzz](zzz/README.md)
+- [zzz]()
